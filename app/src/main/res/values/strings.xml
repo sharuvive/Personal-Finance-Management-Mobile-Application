@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PaymentScheduler</string>
+    <string name="addButton">Save</string>
+    <string name="setDateButton">Set Date</string>
+    <string name="viewdata">View Payments</string>
+    <string-array name="category">
+        <item>cat-aa</item>
+        <item>cat-ab</item>
+        <item>cat-ac</item>
+        <item>cat-ad</item>
+        <item>cat-ae</item>
+    </string-array>
+
+    <string-array name="subcategory">
+        <item>subcat-aa</item>
+        <item>subcat-ab</item>
+        <item>subcat-ac</item>
+        <item>subcat-ad</item>
+        <item>subcat-ae</item>
+    </string-array>
+</resources>
